@@ -1,0 +1,3 @@
+./cli_stub.go
+./load_stub.go
+./plugin.go

@@ -1,0 +1,7 @@
+./file_other.go
+./fileinfo.go
+./fileinfo_unix.go
+./helper_other.go
+./interval_rotator.go
+./rotator.go
+./stderr_other.go

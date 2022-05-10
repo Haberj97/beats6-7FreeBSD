@@ -1,0 +1,11 @@
+./list.go
+./metrics.go
+./mode_string.go
+./monitoring.go
+./namespace.go
+./opts.go
+./registry.go
+./snapshot.go
+./visitor.go
+./visitor_expvar.go
+./visitor_kv.go

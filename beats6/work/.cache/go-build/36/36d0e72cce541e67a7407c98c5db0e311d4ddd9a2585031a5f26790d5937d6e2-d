@@ -1,0 +1,17 @@
+./chtimes.go
+./chtimes_unix.go
+./errors.go
+./exitcode.go
+./filesys.go
+./lstat_unix.go
+./meminfo.go
+./meminfo_unsupported.go
+./mknod.go
+./path_unix.go
+./process_unix.go
+./stat_freebsd.go
+./stat_unix.go
+./syscall_unix.go
+./umask.go
+./utimes_freebsd.go
+./xattrs_unsupported.go

@@ -1,0 +1,12 @@
+package net
+//go:cgo_import_dynamic atexit atexit#FBSD_1.0 "libc.so.7"
+//go:cgo_import_dynamic _init_tls _init_tls#FBSD_1.0 "libc.so.7"
+//go:cgo_import_dynamic exit exit#FBSD_1.0 "libc.so.7"
+//go:cgo_import_dynamic _Jv_RegisterClasses _Jv_RegisterClasses ""
+//go:cgo_import_dynamic __error __error#FBSD_1.0 "libc.so.7"
+//go:cgo_import_dynamic getnameinfo getnameinfo#FBSD_1.0 "libc.so.7"
+//go:cgo_import_dynamic getaddrinfo getaddrinfo#FBSD_1.0 "libc.so.7"
+//go:cgo_import_dynamic freeaddrinfo freeaddrinfo#FBSD_1.0 "libc.so.7"
+//go:cgo_import_dynamic gai_strerror gai_strerror#FBSD_1.0 "libc.so.7"
+//go:cgo_import_dynamic _ _ "libthr.so.3"
+//go:cgo_import_dynamic _ _ "libc.so.7"

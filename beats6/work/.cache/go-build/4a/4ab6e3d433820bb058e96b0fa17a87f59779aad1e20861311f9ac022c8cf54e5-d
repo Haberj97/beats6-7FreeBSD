@@ -1,0 +1,5 @@
+./cmp.go
+./compile.go
+./matcher.go
+./matchers.go
+./optimize.go

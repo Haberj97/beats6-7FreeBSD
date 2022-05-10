@@ -1,0 +1,11 @@
+./config.go
+./core.go
+./encoding.go
+./eventlog_unsupported.go
+./fields.go
+./global.go
+./level.go
+./logger.go
+./options.go
+./selective.go
+./syslog_unix.go

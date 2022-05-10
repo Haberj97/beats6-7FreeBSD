@@ -1,0 +1,7 @@
+./appender.go
+./autodiscover.go
+./builder.go
+./config.go
+./factoryadapter.go
+./provider.go
+./registry.go

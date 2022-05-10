@@ -1,0 +1,5 @@
+./beat.go
+./error.go
+./event.go
+./info.go
+./pipeline.go

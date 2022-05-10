@@ -1,0 +1,10 @@
+./callbacks.go
+./freebsd.go
+./handle.go
+./iscgo.go
+./setenv.go
+./sigaction.go
+_cgo_gotypes.go
+cgo.cgo1.go
+_cgo_import.go
+./asm_amd64.s

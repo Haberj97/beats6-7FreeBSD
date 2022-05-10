@@ -1,0 +1,5 @@
+./cfgfile.go
+./glob_manager.go
+./glob_watcher.go
+./list.go
+./reload.go

@@ -1,0 +1,6 @@
+./bundle.go
+./details.go
+./feature.go
+./registry.go
+./stability.go
+./stability_string.go

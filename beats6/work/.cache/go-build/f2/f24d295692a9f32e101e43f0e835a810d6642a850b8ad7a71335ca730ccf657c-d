@@ -1,0 +1,6 @@
+./decode.go
+./defs.go
+./json.go
+./parse.go
+./state_string.go
+./visitor.go

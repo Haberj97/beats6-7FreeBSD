@@ -1,0 +1,10 @@
+./backoff.go
+./failover.go
+./hosts.go
+./metrics.go
+./observer.go
+./output_reg.go
+./outputs.go
+./plugin.go
+./tls.go
+./util.go

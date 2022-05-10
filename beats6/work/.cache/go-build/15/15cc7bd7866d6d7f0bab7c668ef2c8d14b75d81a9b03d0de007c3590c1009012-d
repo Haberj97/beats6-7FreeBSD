@@ -1,0 +1,15 @@
+./doc.go
+./error.go
+./errpred.go
+./fieldset.go
+./getset.go
+./merge.go
+./opts.go
+./path.go
+./reify.go
+./types.go
+./ucfg.go
+./unpack.go
+./util.go
+./validator.go
+./variables.go

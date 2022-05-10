@@ -1,0 +1,5 @@
+./conditionals.go
+./config.go
+./namespace.go
+./processor.go
+./registry.go
